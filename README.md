@@ -61,19 +61,19 @@
 ###
 
 <div align="left">
-<a href="https://tilakrathoure.vercel.app" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/My%20Website-000?style=for-the-badge&logo=About.me&logoColor=white" height="45" alt="portfolio" />
+<a href="https://tilakrathoure.vercel.app" target="_blank" >
+  <img src="https://img.shields.io/badge/My%20Website-000?style=for-the-badge&logo=About.me&logoColor=white" height="45"/>
 </a>
-  <a href="www.linkedin.com/in/tilakrathoure" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/tilakrathoure/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" />
   </a>
-  <a href="https://x.com/TilakRathoure" >
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" height="35" alt="gmail logo"/>
+  <a href="https://x.com/TilakRathoure" target="_blank" >
+    <img src="https://skillicons.dev/icons?i=twitter" width="50" height="35"/>
   </a>
-  <a href="https://www.instagram.com/tilakrathoure" >
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/tilakrathoure" target="_blank" >
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="35" a />
   </a>
-<a href="mailto:tilakrathoure@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:tilakrathoure@gmail.com" target="_blank" >
     <img src="https://skillicons.dev/icons?i=gmail" width="50" height="35"/>
   </a>
 </div>
