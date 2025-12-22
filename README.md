@@ -67,14 +67,14 @@
   <a href="www.linkedin.com/in/tilakrathoure" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/TilakRathoure" target="_blank">
+  <a href="https://x.com/TilakRathoure" >
     <img src="https://skillicons.dev/icons?i=twitter" width="50" height="35" alt="gmail logo"/>
   </a>
-  <a href="https://www.instagram.com/tilakrathoure" target="_blank">
+  <a href="https://www.instagram.com/tilakrathoure" >
     <img src="https://skillicons.dev/icons?i=instagram" width="50" height="35" alt="instagram logo"  />
   </a>
 <a href="mailto:tilakrathoure@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="35" alt="gmail logo"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="35"/>
   </a>
 </div>
 
