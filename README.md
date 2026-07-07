@@ -4,6 +4,14 @@
 
 <h4 align="left">I'm Tilak Rathoure</h4>
 
+<p align="left">
+🚀 Full-Stack Developer @ <b>SuntekAI</b>
+</p>
+
+<a href="https://github.com/TilakSuntekai" target="_blank">
+  <img src="https://img.shields.io/badge/Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 ###
 
 <h2 align="left">About me</h2>
