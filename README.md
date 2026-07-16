@@ -5,7 +5,7 @@
 <h4 align="left">I'm Tilak Rathoure</h4>
 
 <p align="left">
-🚀 Full-Stack Developer @ <b>SuntekAI</b>
+🚀 Full-Stack Developer Intern @ <b>SuntekAI</b>
 </p>
 
 <a href="https://github.com/TilakSuntekai" target="_blank">
