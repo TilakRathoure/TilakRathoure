@@ -1,91 +1,72 @@
-<h1 align="left">Hey 👋</h1>
+<img width="2000" height="400" alt="169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f" src="https://github.com/user-attachments/assets/a3a9edc1-d79b-4b1c-aa37-3114e1179c3f" />
 
-###
 
-<h4 align="left">I'm Tilak Rathoure</h4>
+<h1 align="center">Hey 👋, I'm Tilak Rathoure</h1>
 
-<p align="left">
-🚀 Full-Stack Developer Intern @ <b>SuntekAI</b>
+<p align="center">
+  🚀 Currently contributing as a <b>Full-Stack Developer @ SuntekAI</b>
+  &nbsp;
+  <a href="https://github.com/TilakSuntekai" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="25" height="25" alt="github"/>
+  </a>
 </p>
 
-<a href="https://github.com/TilakSuntekai" target="_blank">
-  <img src="https://img.shields.io/badge/Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  I build stuff for the web, play around with AI, and occasionally break things along the way 😄
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+<h2 align="center">👨‍💻 A little about me</h2>
 
-###
+<p align="center">
+  B.Tech CSE (AI) graduate who enjoys building things and figuring out how they work.
+  <br/>
+  Mostly into <b>full-stack development, AI, and open source</b>.
+  <br/>
+  Always experimenting with something new and trying to turn random ideas into actual projects.
+</p>
 
-<h4 align="left">A B.Tech CSE (AI) student and Full-Stack Developer passionate about building dynamic web applications with AI-powered features. I'm actively contributing to open-source projects and always open to collaborations in AI, web development, and innovative tech solutions.</h4>
+<p align="center">
+  🤖 AI &nbsp; • &nbsp; 🌐 Full-Stack &nbsp; • &nbsp; 🚀 Open Source &nbsp; • &nbsp; 🛠️ Building Stuff
+</p>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+<h2 align="center">🛠️ Things I work with</h2>
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,nodejs,express,python,cpp,mongodb,postgresql,firebase,docker,git,postman,html,tailwind" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=redux" width="50" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" width="50" height="35" alt="python logo"  />
-  <img width="12" />
-      <img src="https://skillicons.dev/icons?i=postman" width="50" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
-    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="35" alt="tailwindcss logo"  />
-</div>
+---
 
-###
+<h2 align="center">🤝 Find me around the internet</h2>
 
-<h2 align="left">I'm open to collaborations — let's connect!</h2>
-
-###
-
-<div align="left">
-<a href="https://tilakrathoure.vercel.app" target="_blank" >
-  <img src="https://img.shields.io/badge/My%20Website-000?style=for-the-badge&logo=About.me&logoColor=white" height="45"/>
-</a>
-  <a href="https://www.linkedin.com/in/tilakrathoure/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" />
+<p align="center">
+  <a href="https://tilakrathoure.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="32" height="32" alt="portfolio"/>
   </a>
-  <a href="https://x.com/TilakRathoure" target="_blank" >
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" height="35"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tilakrathoure/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="linkedin"/>
   </a>
-  <a href="https://www.instagram.com/tilakrathoure" target="_blank" >
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="35" a />
+  &nbsp;&nbsp;
+  <a href="https://x.com/TilakRathoure" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" alt="x"/>
   </a>
-<a href="mailto:tilakrathoure@gmail.com" target="_blank" >
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="35"/>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/tilakrathoure" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" alt="instagram"/>
   </a>
-</div>
+  &nbsp;&nbsp;
+  <a href="mailto:tilakrathoure@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="32" height="32" alt="email"/>
+  </a>
+</p>
 
-###
+<br/>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TilakSuntekai&label=Profile%20Views&style=flat-square" alt="profile views"/>
+</p>
